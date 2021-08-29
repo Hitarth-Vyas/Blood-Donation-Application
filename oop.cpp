@@ -1,0 +1,6 @@
+// set_details(string name,string gender,int age, string city, int city code, string email,long contact_num,string bloodgrp,int wbc_count,int rbc_count,int plasma_count)
+// set_details("Ravi", "Male", 33, "Puri", 752001, "ravi3442@gmail.com", 9323532345, "AB+",  8200, 4.87, 351000)
+// set_details("Hari", "Male", 32, "Dehli", 110012, "hari7652@gmail.com", 8832532345, "B+",  7200, 4.81, 268000)
+// set_details("Madhav", "Male", 29, "Madras", 600014, "madhav542@gmail.com", 9323543823, "B-",  9200, 5.19, 312000)
+// set_details("Aadit", "Male", 26, "Nashik", 422102, "adit423@gmail.com", 9323567329, "O-",  5600, 5.02, 306000)
+// set_details("Shweta", "Female", 34, "Ujjain", 456664"shweta586@gmail.com", 7847568238, "A+",  6200, 4.78, 291000)
